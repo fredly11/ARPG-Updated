@@ -4,7 +4,7 @@ As a software engineer, I developed a text-based RPG game as part of my learning
 
 The game allows players to interact with different locations, where they can "look for trouble" and encounter monsters with varying attributes. Each monster has a spawn chance tied to specific locations in the game. The goal of writing this software was to practice and refine my skills in game development, database integration, and object-oriented programming.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=L6tVOWeH-RA)
 
 # Relational Database
 

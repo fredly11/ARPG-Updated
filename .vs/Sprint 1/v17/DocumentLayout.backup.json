@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\locationscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\locationscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,17 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\GameForm.cs",
+              "RelativeDocumentMoniker": "TextRPGWindow\\GameForm.cs",
+              "ToolTip": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\GameForm.cs",
+              "RelativeToolTip": "TextRPGWindow\\GameForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:21:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LocationScreen.cs",
               "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\LocationScreen.cs",
               "RelativeDocumentMoniker": "TextRPGWindow\\LocationScreen.cs",
               "ToolTip": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\LocationScreen.cs",
               "RelativeToolTip": "TextRPGWindow\\LocationScreen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDoAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T22:01:25.534Z",
               "EditorCaption": ""
@@ -49,14 +66,14 @@
               "RelativeDocumentMoniker": "TextRPGWindow\\DatabaseManager.cs",
               "ToolTip": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\DatabaseManager.cs",
               "RelativeToolTip": "TextRPGWindow\\DatabaseManager.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T21:48:41.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MonsterFactory.cs",
               "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\MonsterFactory.cs",
               "RelativeDocumentMoniker": "TextRPGWindow\\MonsterFactory.cs",
@@ -64,21 +81,19 @@
               "RelativeToolTip": "TextRPGWindow\\MonsterFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:48:47.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T21:48:47.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Monster.cs",
               "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\Monster.cs",
               "RelativeDocumentMoniker": "TextRPGWindow\\Monster.cs",
               "ToolTip": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\Monster.cs",
               "RelativeToolTip": "TextRPGWindow\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:48:46.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T21:48:46.306Z"
             }
           ]
         }

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Development\\School\\CSE310\\Sprint 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\locationscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\locationscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\monsterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\monsterfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|d:\\development\\school\\cse310\\sprint 4\\textrpgwindow\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738DBAFF-DECB-4965-A6CB-17984D674189}|TextRPGWindow\\TextRPGWindow.csproj|solutionrelative:textrpgwindow\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\GameForm.cs",
+              "RelativeDocumentMoniker": "TextRPGWindow\\GameForm.cs",
+              "ToolTip": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\GameForm.cs",
+              "RelativeToolTip": "TextRPGWindow\\GameForm.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:21:35.581Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "TextRPGWindow\\LocationScreen.cs",
               "ToolTip": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\LocationScreen.cs",
               "RelativeToolTip": "TextRPGWindow\\LocationScreen.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwEIAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T22:01:25.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DatabaseManager.cs",
               "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "TextRPGWindow\\DatabaseManager.cs",
@@ -56,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MonsterFactory.cs",
               "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\MonsterFactory.cs",
               "RelativeDocumentMoniker": "TextRPGWindow\\MonsterFactory.cs",
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Monster.cs",
               "DocumentMoniker": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\Monster.cs",
               "RelativeDocumentMoniker": "TextRPGWindow\\Monster.cs",
               "ToolTip": "D:\\Development\\School\\CSE310\\Sprint 4\\TextRPGWindow\\Monster.cs",
               "RelativeToolTip": "TextRPGWindow\\Monster.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T21:48:46.306Z",
               "EditorCaption": ""
