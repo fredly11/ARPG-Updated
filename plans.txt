@@ -1,0 +1,184 @@
+Screen has
+display
+options
+
+Screens:
+menus
+locations
+NPCs
+combat
+
+Menu: 
+display
+options
+actions
+
+
+display - array of strings to show options in the menu
+options/actions - action takes to: menu, location
+
+
+
+examples:
+
+main menu
+display:
+options 
+options/actions:
+new game (create new player object, go to starting location)
+load game (go to last location, player is same object as previously)
+quit
+
+character menu
+display:
+attributes
+available points
+options
+options/actions
+return (go to most recent location)
+assign points (enter ability and amount to assign)
+skills [stretch] - (go to skill tree menu)
+save & quit
+
+location
+                      NAME
+----------------------------------------------------
+Description line
+line
+line
+line
+---------------------------------------------------
+                      NPCs
+1. name                        4. name
+2. name                        5. name
+3. name                        6. name
+---------------------------------------------------
+                    Locations
+1. name                        5. name
+2. name                        6. name
+3. name                        7. name
+4. name                        8. name
+---------------------------------------------------
+LFT  - Look for Trouble
+CHAR - View Character Menu
+
+options/actions:
+NPC (go to selected NPC)
+location (go to selected location)
+character menu (go to character menu)
+look for trouble (begin combat, go to combat for location)
+
+NPC
+                      NAME
+----------------------------------------------------
+Description line
+line
+line
+line
+---------------------------------------------------
+		    MESSAGE:
+line of message
+line of message
+line of message
+---------------------------------------------------
+                DIALOGUE OPTIONS
+1. line
+2. line
+3. line                
+4. line
+5. line
+---------------------------------------------------
+LEAVE - Return to location
+
+Combat
+Display:
+turn and phase
+enemy(ies) (up to 4 in grid)
+combat log (4 lines)
+player status
+options
+
+options/actions
+Maneuver phase:
+Basic (update options to show basic list and return)
+Might   [stretch] (update options to show might list and return)
+Cunning [stretch] (update options to show cunning list and return)
+Mystic  [stretch] (update options to show mystic list and return)
+Flee
+
+
+movement points - spend some amount of movement points with maneuver, if you spend more than enemy you succeed
+basics
+circle - try and get to flank or rear of target
+guard - keep enemies in front
+face - focus purely on keeping target in front
+change target - free, but takes your maneuver
+wait - save your points
+flee
+
+
+if in submenu, perform selected action, update character, update enemy, update log
+
+Strike phase:
+Basic (update options to show basic list and return)
+Might   [stretch] (update options to show might list and return)
+Cunning [stretch] (update options to show cunning list and return)
+Mystic  [stretch] (update options to show mystic list and return)
+
+if in submenu, perform selected action, update character, update enemy, update log
+
+
+
+COMBAT
+
+Positioning:
+1 target, can be front, flank, or rear
+up to 4 enemies can be at your front, flank or ambushed
+
+standard attack - hits [target] if they are front or flank
+slam - hits [target] if front
+cone - hits all enemies in front
+cleave - his front and flanks
+splash - hits all enemies
+
+
+Wolf lvl 2 (T)        Wolf lvl 1
+HP: 10                HP: 5
+MP: 4                 MP: 2
+Position: Front       Position: Side
+Status: Flanked
+
+Wolf lvl 3            Wolf lvl 2
+HP: 15                HP: 10
+MP: 6                 MP: 4
+Position: Rear        Position: Front
+
+-------------------------------------------
+Turn 2 move:
+log
+log
+log
+log
+
+
+4 abilities
+Brawniness - damage
+Nimbility - movement
+Mysticigence - mana
+Enduritution - health
+
+Strength - damage, improves parry
+Agility - damage, physical crit, dodge, armor
+Intellect - mana, spell crit
+Spirit - Mana and health regen (out of combat)
+Stamina - health
+
+strength - marginal physical damage, let's you equip stuff
+dex - decent bonus to attack rating, marginal bonus to defense, lets you equip certain stuff (block chance)
+energy - mana (mostly useless because potions)
+vitality - health (Only useful stat)
+
+
+The display will contain a grid of up to 4 enemies (2 columns, 2 rows) showing the info for each enemy, each row will be 5 lines with a single line of space between the first and second row., as well as a combat log that show the most recent 4 messages from the combat log, and the options display for the actions the character that can take which will probably be 4 lines showing the categories of abilities the character can use and will display a submenu when a category is selected, updating these 4 lines. This
+
+
